@@ -5,7 +5,7 @@ This repository contains my personal portfolio website.
 The site is intentionally built as a **simple static HTML page**, focused on clarity, storytelling, and long-term maintainability rather than visual effects or heavy frameworks.
 
 🔗 **Live site**  
-https://anhkhoadx.github.io/portfolio/
+https://dinhhuy2908.github.io/portfolio/
 
 ---
 
